@@ -1,0 +1,33 @@
+.form-buttons {
+    margin-right: 1rem;
+    border-radius: 10px;
+    margin-left: 1rem;
+}
+
+.form-button-icons {
+    background: transparent;
+    box-shadow: none;
+    border: none;
+}
+.form-button-icons:hover {
+    opacity: unset;
+    background: transparent;
+    cursor: unset;
+    box-shadow: none;
+}
+
+.form-button-icons:active {
+    background: transparent !important;
+    color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.form-button-icons:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn-with-margin {
+    margin-right: 30px;
+}
